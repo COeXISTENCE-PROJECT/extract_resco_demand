@@ -1,0 +1,3 @@
+lxml>=4.9
+networkx>=3.0
+sumolib>=1.20
